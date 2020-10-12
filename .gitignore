@@ -1,0 +1,6 @@
+temp/
+node_modules/
+*.bat
+
+# IntellijIdea files
+.idea/
